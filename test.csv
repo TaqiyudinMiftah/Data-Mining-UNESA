@@ -1,0 +1,2058 @@
+ID,label
+1,Ayam Pop
+2,Sate Madura
+3,Rawon
+4,Ayam Bakar
+5,Gudeg
+6,Nasi Goreng
+7,Gudeg
+8,Ayam Goreng
+9,Rendang
+10,Gado Gado
+11,Ayam Bakar
+12,Gado Gado
+13,Rawon
+14,Sate Padang
+15,Gado Gado
+16,Sate Padang
+17,Ayam Bakar
+18,Gado Gado
+19,Soto
+20,Nasi Goreng
+21,Bakso
+22,Nasi Goreng
+23,Nasi Goreng
+24,Ayam Betutu
+25,Gado Gado
+26,Ayam Bakar
+27,Ayam Betutu
+28,Ayam Pop
+29,Nasi Goreng
+30,Rendang
+31,Rawon
+32,Coto Makassar
+33,Gudeg
+34,Ayam Bakar
+35,Bakso
+36,Sate Padang
+37,Rawon
+38,Bakso
+39,Gudeg
+40,Sate Madura
+41,Bakso
+42,Rendang
+43,Gudeg
+44,Nasi Goreng
+45,Sate Madura
+46,Bakso
+47,Sate Madura
+48,Rendang
+49,Bakso
+50,Coto Makassar
+51,Nasi Goreng
+52,Sate Padang
+53,Sate Madura
+54,Gado Gado
+55,Coto Makassar
+56,Ayam Bakar
+57,Rendang
+58,Ayam Bakar
+59,Soto
+60,Rendang
+61,Sate Padang
+62,Rendang
+63,Ayam Betutu
+64,Bakso
+65,Gado Gado
+66,Ayam Pop
+67,Gado Gado
+68,Rawon
+69,Gado Gado
+70,Nasi Goreng
+71,Gudeg
+72,Pempek
+73,Soto
+74,Sate Padang
+75,Gudeg
+76,Coto Makassar
+77,Nasi Goreng
+78,Gado Gado
+79,Pempek
+80,Ayam Pop
+81,Bakso
+82,Ayam Bakar
+83,Rendang
+84,Sate Padang
+85,Pempek
+86,Rendang
+87,Soto
+88,Ayam Goreng
+89,Rawon
+90,Sate Padang
+91,Bakso
+92,Ayam Betutu
+93,Sate Madura
+94,Gado Gado
+95,Ayam Pop
+96,Rawon
+97,Ayam Betutu
+98,Sate Padang
+99,Ayam Pop
+100,Rendang
+101,Bakso
+102,Pempek
+103,Bakso
+104,Sate Madura
+105,Nasi Goreng
+106,Gado Gado
+107,Sate Madura
+108,Ayam Bakar
+109,Gudeg
+110,Ayam Pop
+111,Sate Padang
+112,Rawon
+113,Ayam Betutu
+114,Sate Padang
+115,Rawon
+116,Ayam Goreng
+117,Ayam Goreng
+118,Sate Madura
+119,Coto Makassar
+120,Pempek
+121,Gado Gado
+122,Gado Gado
+123,Coto Makassar
+124,Ayam Pop
+125,Coto Makassar
+126,Soto
+127,Gudeg
+128,Pempek
+129,Coto Makassar
+130,Ayam Betutu
+131,Ayam Pop
+132,Sate Padang
+133,Ayam Betutu
+134,Soto
+135,Sate Padang
+136,Ayam Pop
+137,Ayam Bakar
+138,Rawon
+139,Ayam Goreng
+140,Bakso
+141,Nasi Goreng
+142,Nasi Goreng
+143,Sate Padang
+144,Gudeg
+145,Ayam Pop
+146,Gudeg
+147,Nasi Goreng
+148,Ayam Betutu
+149,Ayam Bakar
+150,Ayam Goreng
+151,Rawon
+152,Sate Madura
+153,Gudeg
+154,Pempek
+155,Sate Madura
+156,Sate Padang
+157,Sate Padang
+158,Gado Gado
+159,Sate Padang
+160,Gudeg
+161,Bakso
+162,Gudeg
+163,Sate Padang
+164,Rawon
+165,Ayam Betutu
+166,Soto
+167,Soto
+168,Sate Padang
+169,Soto
+170,Sate Padang
+171,Coto Makassar
+172,Ayam Goreng
+173,Bakso
+174,Rendang
+175,Rendang
+176,Bakso
+177,Nasi Goreng
+178,Bakso
+179,Coto Makassar
+180,Coto Makassar
+181,Ayam Betutu
+182,Sate Padang
+183,Ayam Bakar
+184,Pempek
+185,Ayam Bakar
+186,Pempek
+187,Ayam Pop
+188,Pempek
+189,Nasi Goreng
+190,Ayam Goreng
+191,Rawon
+192,Sate Padang
+193,Gudeg
+194,Rawon
+195,Ayam Pop
+196,Ayam Goreng
+197,Gado Gado
+198,Coto Makassar
+199,Bakso
+200,Coto Makassar
+201,Bakso
+202,Ayam Goreng
+203,Sate Padang
+204,Ayam Goreng
+205,Ayam Pop
+206,Rawon
+207,Gado Gado
+208,Ayam Goreng
+209,Coto Makassar
+210,Rendang
+211,Sate Padang
+212,Pempek
+213,Rawon
+214,Rendang
+215,Ayam Bakar
+216,Ayam Betutu
+217,Ayam Pop
+218,Ayam Pop
+219,Rawon
+220,Pempek
+221,Gado Gado
+222,Ayam Bakar
+223,Sate Madura
+224,Coto Makassar
+225,Gado Gado
+226,Soto
+227,Ayam Bakar
+228,Gado Gado
+229,Gudeg
+230,Gudeg
+231,Gado Gado
+232,Rawon
+233,Bakso
+234,Rendang
+235,Ayam Betutu
+236,Rendang
+237,Nasi Goreng
+238,Bakso
+239,Ayam Pop
+240,Ayam Pop
+241,Ayam Betutu
+242,Coto Makassar
+243,Sate Madura
+244,Gado Gado
+245,Ayam Pop
+246,Ayam Pop
+247,Rawon
+248,Rendang
+249,Ayam Bakar
+250,Pempek
+251,Ayam Goreng
+252,Bakso
+253,Ayam Goreng
+254,Bakso
+255,Pempek
+256,Ayam Pop
+257,Ayam Bakar
+258,Sate Madura
+259,Ayam Betutu
+260,Ayam Betutu
+261,Ayam Betutu
+262,Rendang
+263,Ayam Bakar
+264,Pempek
+265,Rendang
+266,Rendang
+267,Soto
+268,Coto Makassar
+269,Rawon
+270,Ayam Pop
+271,Nasi Goreng
+272,Ayam Pop
+273,Rendang
+274,Rendang
+275,Rendang
+276,Rawon
+277,Bakso
+278,Bakso
+279,Gado Gado
+280,Ayam Betutu
+281,Rawon
+282,Coto Makassar
+283,Sate Madura
+284,Ayam Goreng
+285,Soto
+286,Ayam Betutu
+287,Ayam Betutu
+288,Soto
+289,Ayam Bakar
+290,Pempek
+291,Rendang
+292,Coto Makassar
+293,Gudeg
+294,Ayam Goreng
+295,Ayam Bakar
+296,Bakso
+297,Bakso
+298,Nasi Goreng
+299,Bakso
+300,Gado Gado
+301,Sate Madura
+302,Rendang
+303,Ayam Goreng
+304,Gado Gado
+305,Ayam Betutu
+306,Sate Padang
+307,Sate Padang
+308,Ayam Bakar
+309,Sate Madura
+310,Sate Padang
+311,Gudeg
+312,Bakso
+313,Coto Makassar
+314,Gado Gado
+315,Ayam Bakar
+316,Ayam Goreng
+317,Sate Madura
+318,Gudeg
+319,Bakso
+320,Ayam Pop
+321,Rendang
+322,Pempek
+323,Soto
+324,Sate Madura
+325,Bakso
+326,Ayam Pop
+327,Sate Madura
+328,Nasi Goreng
+329,Ayam Goreng
+330,Sate Padang
+331,Ayam Goreng
+332,Sate Padang
+333,Ayam Bakar
+334,Ayam Bakar
+335,Soto
+336,Rawon
+337,Sate Padang
+338,Gudeg
+339,Ayam Bakar
+340,Sate Padang
+341,Rawon
+342,Sate Madura
+343,Bakso
+344,Rawon
+345,Sate Padang
+346,Gado Gado
+347,Rawon
+348,Ayam Goreng
+349,Ayam Betutu
+350,Coto Makassar
+351,Gudeg
+352,Ayam Pop
+353,Pempek
+354,Pempek
+355,Nasi Goreng
+356,Rendang
+357,Gado Gado
+358,Sate Padang
+359,Pempek
+360,Ayam Goreng
+361,Sate Madura
+362,Sate Madura
+363,Ayam Betutu
+364,Bakso
+365,Pempek
+366,Gudeg
+367,Sate Madura
+368,Ayam Goreng
+369,Rawon
+370,Rendang
+371,Soto
+372,Nasi Goreng
+373,Ayam Goreng
+374,Ayam Bakar
+375,Ayam Goreng
+376,Nasi Goreng
+377,Coto Makassar
+378,Ayam Bakar
+379,Ayam Bakar
+380,Nasi Goreng
+381,Gudeg
+382,Bakso
+383,Gudeg
+384,Gudeg
+385,Nasi Goreng
+386,Ayam Pop
+387,Bakso
+388,Coto Makassar
+389,Soto
+390,Ayam Betutu
+391,Gudeg
+392,Gudeg
+393,Soto
+394,Bakso
+395,Nasi Goreng
+396,Gado Gado
+397,Soto
+398,Coto Makassar
+399,Ayam Goreng
+400,Gado Gado
+401,Pempek
+402,Rawon
+403,Soto
+404,Ayam Goreng
+405,Ayam Pop
+406,Gudeg
+407,Ayam Bakar
+408,Ayam Betutu
+409,Ayam Betutu
+410,Ayam Pop
+411,Ayam Bakar
+412,Pempek
+413,Nasi Goreng
+414,Soto
+415,Gudeg
+416,Ayam Pop
+417,Sate Madura
+418,Pempek
+419,Nasi Goreng
+420,Ayam Pop
+421,Ayam Bakar
+422,Sate Padang
+423,Ayam Goreng
+424,Nasi Goreng
+425,Gado Gado
+426,Coto Makassar
+427,Nasi Goreng
+428,Pempek
+429,Sate Madura
+430,Gudeg
+431,Sate Padang
+432,Coto Makassar
+433,Soto
+434,Sate Madura
+435,Gado Gado
+436,Coto Makassar
+437,Rawon
+438,Nasi Goreng
+439,Rendang
+440,Ayam Pop
+441,Nasi Goreng
+442,Gudeg
+443,Pempek
+444,Ayam Pop
+445,Soto
+446,Gado Gado
+447,Soto
+448,Bakso
+449,Sate Madura
+450,Pempek
+451,Sate Padang
+452,Gado Gado
+453,Ayam Pop
+454,Ayam Pop
+455,Sate Madura
+456,Nasi Goreng
+457,Rendang
+458,Soto
+459,Rawon
+460,Ayam Goreng
+461,Ayam Betutu
+462,Gado Gado
+463,Sate Padang
+464,Ayam Betutu
+465,Nasi Goreng
+466,Ayam Bakar
+467,Coto Makassar
+468,Pempek
+469,Sate Madura
+470,Ayam Pop
+471,Ayam Betutu
+472,Sate Padang
+473,Gado Gado
+474,Ayam Goreng
+475,Ayam Betutu
+476,Ayam Betutu
+477,Coto Makassar
+478,Rendang
+479,Ayam Betutu
+480,Ayam Goreng
+481,Ayam Goreng
+482,Rawon
+483,Soto
+484,Gudeg
+485,Rendang
+486,Nasi Goreng
+487,Sate Padang
+488,Ayam Betutu
+489,Sate Padang
+490,Pempek
+491,Sate Padang
+492,Sate Madura
+493,Gado Gado
+494,Soto
+495,Ayam Betutu
+496,Pempek
+497,Sate Padang
+498,Gudeg
+499,Gado Gado
+500,Coto Makassar
+501,Gudeg
+502,Soto
+503,Sate Padang
+504,Sate Padang
+505,Soto
+506,Ayam Pop
+507,Ayam Bakar
+508,Soto
+509,Coto Makassar
+510,Gudeg
+511,Bakso
+512,Ayam Bakar
+513,Ayam Betutu
+514,Gudeg
+515,Coto Makassar
+516,Sate Madura
+517,Ayam Betutu
+518,Pempek
+519,Coto Makassar
+520,Soto
+521,Ayam Betutu
+522,Soto
+523,Ayam Goreng
+524,Ayam Goreng
+525,Rawon
+526,Pempek
+527,Ayam Bakar
+528,Rawon
+529,Nasi Goreng
+530,Ayam Goreng
+531,Ayam Bakar
+532,Rendang
+533,Rendang
+534,Rawon
+535,Ayam Pop
+536,Sate Padang
+537,Pempek
+538,Coto Makassar
+539,Sate Madura
+540,Gado Gado
+541,Ayam Goreng
+542,Rendang
+543,Coto Makassar
+544,Ayam Pop
+545,Sate Madura
+546,Ayam Bakar
+547,Ayam Pop
+548,Nasi Goreng
+549,Rawon
+550,Sate Madura
+551,Ayam Betutu
+552,Gado Gado
+553,Pempek
+554,Rawon
+555,Rawon
+556,Nasi Goreng
+557,Gudeg
+558,Ayam Goreng
+559,Gado Gado
+560,Gado Gado
+561,Ayam Bakar
+562,Ayam Betutu
+563,Pempek
+564,Coto Makassar
+565,Nasi Goreng
+566,Gado Gado
+567,Gado Gado
+568,Gudeg
+569,Ayam Betutu
+570,Nasi Goreng
+571,Ayam Betutu
+572,Ayam Goreng
+573,Coto Makassar
+574,Sate Madura
+575,Pempek
+576,Ayam Goreng
+577,Rendang
+578,Ayam Betutu
+579,Ayam Pop
+580,Sate Madura
+581,Ayam Bakar
+582,Gado Gado
+583,Rawon
+584,Ayam Bakar
+585,Ayam Pop
+586,Ayam Betutu
+587,Ayam Bakar
+588,Bakso
+589,Sate Padang
+590,Gudeg
+591,Rendang
+592,Ayam Bakar
+593,Pempek
+594,Sate Madura
+595,Nasi Goreng
+596,Ayam Goreng
+597,Ayam Betutu
+598,Gudeg
+599,Ayam Goreng
+600,Bakso
+601,Sate Madura
+602,Sate Madura
+603,Coto Makassar
+604,Sate Madura
+605,Ayam Betutu
+606,Gudeg
+607,Coto Makassar
+608,Rendang
+609,Bakso
+610,Rawon
+611,Rawon
+612,Nasi Goreng
+613,Nasi Goreng
+614,Sate Padang
+615,Ayam Goreng
+616,Gado Gado
+617,Pempek
+618,Ayam Betutu
+619,Ayam Bakar
+620,Gudeg
+621,Gudeg
+622,Pempek
+623,Ayam Betutu
+624,Ayam Pop
+625,Ayam Goreng
+626,Rendang
+627,Sate Madura
+628,Ayam Goreng
+629,Gado Gado
+630,Rendang
+631,Sate Padang
+632,Sate Madura
+633,Soto
+634,Gudeg
+635,Ayam Pop
+636,Sate Madura
+637,Ayam Betutu
+638,Gudeg
+639,Gudeg
+640,Rawon
+641,Nasi Goreng
+642,Rendang
+643,Sate Padang
+644,Ayam Bakar
+645,Sate Padang
+646,Rendang
+647,Gado Gado
+648,Bakso
+649,Pempek
+650,Coto Makassar
+651,Ayam Betutu
+652,Ayam Pop
+653,Bakso
+654,Pempek
+655,Rawon
+656,Bakso
+657,Sate Padang
+658,Gado Gado
+659,Soto
+660,Coto Makassar
+661,Soto
+662,Gudeg
+663,Sate Madura
+664,Ayam Betutu
+665,Coto Makassar
+666,Rawon
+667,Bakso
+668,Sate Madura
+669,Soto
+670,Ayam Bakar
+671,Nasi Goreng
+672,Sate Padang
+673,Rawon
+674,Sate Madura
+675,Bakso
+676,Gudeg
+677,Gado Gado
+678,Soto
+679,Nasi Goreng
+680,Gado Gado
+681,Coto Makassar
+682,Sate Madura
+683,Pempek
+684,Rawon
+685,Ayam Bakar
+686,Rendang
+687,Coto Makassar
+688,Ayam Betutu
+689,Soto
+690,Rawon
+691,Bakso
+692,Ayam Bakar
+693,Coto Makassar
+694,Ayam Bakar
+695,Coto Makassar
+696,Ayam Pop
+697,Ayam Goreng
+698,Rendang
+699,Ayam Betutu
+700,Ayam Goreng
+701,Bakso
+702,Nasi Goreng
+703,Ayam Goreng
+704,Ayam Betutu
+705,Gudeg
+706,Nasi Goreng
+707,Ayam Betutu
+708,Sate Padang
+709,Soto
+710,Rendang
+711,Ayam Betutu
+712,Sate Madura
+713,Rendang
+714,Rawon
+715,Gado Gado
+716,Bakso
+717,Ayam Pop
+718,Pempek
+719,Gado Gado
+720,Pempek
+721,Rawon
+722,Ayam Goreng
+723,Sate Madura
+724,Gado Gado
+725,Coto Makassar
+726,Ayam Pop
+727,Pempek
+728,Rawon
+729,Coto Makassar
+730,Bakso
+731,Soto
+732,Sate Padang
+733,Rendang
+734,Bakso
+735,Gado Gado
+736,Sate Padang
+737,Sate Madura
+738,Soto
+739,Ayam Bakar
+740,Soto
+741,Ayam Goreng
+742,Soto
+743,Ayam Pop
+744,Ayam Goreng
+745,Coto Makassar
+746,Nasi Goreng
+747,Sate Madura
+748,Ayam Goreng
+749,Rawon
+750,Soto
+751,Ayam Pop
+752,Sate Madura
+753,Sate Padang
+754,Ayam Goreng
+755,Rawon
+756,Ayam Betutu
+757,Coto Makassar
+758,Pempek
+759,Sate Padang
+760,Bakso
+761,Rawon
+762,Sate Padang
+763,Sate Padang
+764,Gudeg
+765,Sate Madura
+766,Coto Makassar
+767,Soto
+768,Coto Makassar
+769,Bakso
+770,Soto
+771,Coto Makassar
+772,Rawon
+773,Gudeg
+774,Bakso
+775,Ayam Bakar
+776,Gado Gado
+777,Ayam Goreng
+778,Rawon
+779,Ayam Goreng
+780,Ayam Goreng
+781,Ayam Bakar
+782,Coto Makassar
+783,Ayam Bakar
+784,Soto
+785,Bakso
+786,Ayam Pop
+787,Coto Makassar
+788,Ayam Bakar
+789,Sate Madura
+790,Ayam Betutu
+791,Ayam Pop
+792,Ayam Pop
+793,Rendang
+794,Rendang
+795,Rendang
+796,Ayam Goreng
+797,Sate Madura
+798,Sate Padang
+799,Sate Padang
+800,Gado Gado
+801,Nasi Goreng
+802,Ayam Goreng
+803,Bakso
+804,Pempek
+805,Gudeg
+806,Rawon
+807,Ayam Betutu
+808,Sate Madura
+809,Bakso
+810,Coto Makassar
+811,Coto Makassar
+812,Rendang
+813,Sate Padang
+814,Coto Makassar
+815,Ayam Goreng
+816,Bakso
+817,Gado Gado
+818,Rendang
+819,Ayam Betutu
+820,Sate Madura
+821,Bakso
+822,Gudeg
+823,Gudeg
+824,Rawon
+825,Rendang
+826,Gado Gado
+827,Coto Makassar
+828,Soto
+829,Soto
+830,Coto Makassar
+831,Ayam Goreng
+832,Nasi Goreng
+833,Bakso
+834,Rawon
+835,Rendang
+836,Rendang
+837,Gado Gado
+838,Sate Padang
+839,Nasi Goreng
+840,Coto Makassar
+841,Gudeg
+842,Ayam Bakar
+843,Ayam Betutu
+844,Ayam Goreng
+845,Ayam Pop
+846,Gado Gado
+847,Rawon
+848,Rendang
+849,Coto Makassar
+850,Ayam Goreng
+851,Pempek
+852,Rendang
+853,Gudeg
+854,Bakso
+855,Coto Makassar
+856,Sate Padang
+857,Nasi Goreng
+858,Ayam Pop
+859,Coto Makassar
+860,Sate Padang
+861,Soto
+862,Gudeg
+863,Rendang
+864,Coto Makassar
+865,Gudeg
+866,Gado Gado
+867,Pempek
+868,Gudeg
+869,Ayam Pop
+870,Gudeg
+871,Soto
+872,Gudeg
+873,Rawon
+874,Coto Makassar
+875,Pempek
+876,Rawon
+877,Soto
+878,Gudeg
+879,Ayam Betutu
+880,Coto Makassar
+881,Ayam Betutu
+882,Pempek
+883,Sate Madura
+884,Pempek
+885,Coto Makassar
+886,Ayam Betutu
+887,Pempek
+888,Ayam Betutu
+889,Gado Gado
+890,Rendang
+891,Ayam Bakar
+892,Sate Padang
+893,Gado Gado
+894,Soto
+895,Bakso
+896,Ayam Bakar
+897,Rawon
+898,Gudeg
+899,Soto
+900,Rawon
+901,Nasi Goreng
+902,Soto
+903,Pempek
+904,Gudeg
+905,Rendang
+906,Rawon
+907,Soto
+908,Ayam Betutu
+909,Rawon
+910,Coto Makassar
+911,Gudeg
+912,Gado Gado
+913,Ayam Bakar
+914,Coto Makassar
+915,Sate Padang
+916,Ayam Pop
+917,Gado Gado
+918,Ayam Bakar
+919,Gudeg
+920,Sate Padang
+921,Rawon
+922,Rawon
+923,Ayam Betutu
+924,Sate Padang
+925,Pempek
+926,Ayam Bakar
+927,Ayam Pop
+928,Soto
+929,Bakso
+930,Nasi Goreng
+931,Soto
+932,Gado Gado
+933,Gado Gado
+934,Ayam Pop
+935,Gudeg
+936,Sate Padang
+937,Ayam Bakar
+938,Soto
+939,Bakso
+940,Pempek
+941,Ayam Pop
+942,Ayam Pop
+943,Gado Gado
+944,Ayam Betutu
+945,Pempek
+946,Rendang
+947,Rendang
+948,Soto
+949,Pempek
+950,Gado Gado
+951,Ayam Betutu
+952,Pempek
+953,Sate Padang
+954,Rawon
+955,Ayam Bakar
+956,Ayam Bakar
+957,Rawon
+958,Gado Gado
+959,Nasi Goreng
+960,Ayam Goreng
+961,Coto Makassar
+962,Gado Gado
+963,Nasi Goreng
+964,Sate Madura
+965,Ayam Pop
+966,Ayam Betutu
+967,Gudeg
+968,Bakso
+969,Rawon
+970,Gudeg
+971,Soto
+972,Soto
+973,Sate Madura
+974,Pempek
+975,Ayam Bakar
+976,Bakso
+977,Ayam Bakar
+978,Ayam Bakar
+979,Coto Makassar
+980,Ayam Bakar
+981,Pempek
+982,Ayam Betutu
+983,Gudeg
+984,Ayam Pop
+985,Coto Makassar
+986,Nasi Goreng
+987,Nasi Goreng
+988,Rendang
+989,Bakso
+990,Gado Gado
+991,Sate Madura
+992,Gado Gado
+993,Sate Padang
+994,Gado Gado
+995,Sate Madura
+996,Gado Gado
+997,Ayam Betutu
+998,Ayam Goreng
+999,Rawon
+1000,Gado Gado
+1001,Pempek
+1002,Coto Makassar
+1003,Gado Gado
+1004,Bakso
+1005,Sate Padang
+1006,Gudeg
+1007,Bakso
+1008,Sate Padang
+1009,Sate Madura
+1010,Gudeg
+1011,Coto Makassar
+1012,Sate Padang
+1013,Ayam Bakar
+1014,Nasi Goreng
+1015,Rawon
+1016,Sate Padang
+1017,Sate Madura
+1018,Nasi Goreng
+1019,Soto
+1020,Nasi Goreng
+1021,Ayam Betutu
+1022,Ayam Goreng
+1023,Nasi Goreng
+1024,Gado Gado
+1025,Gudeg
+1026,Soto
+1027,Gado Gado
+1028,Bakso
+1029,Gudeg
+1030,Rendang
+1031,Gudeg
+1032,Rendang
+1033,Rawon
+1034,Pempek
+1035,Ayam Goreng
+1036,Sate Madura
+1037,Ayam Pop
+1038,Rendang
+1039,Gado Gado
+1040,Coto Makassar
+1041,Sate Padang
+1042,Rendang
+1043,Sate Padang
+1044,Gudeg
+1045,Ayam Betutu
+1046,Soto
+1047,Sate Padang
+1048,Sate Madura
+1049,Sate Madura
+1050,Soto
+1051,Ayam Bakar
+1052,Rendang
+1053,Pempek
+1054,Ayam Goreng
+1055,Ayam Betutu
+1056,Coto Makassar
+1057,Bakso
+1058,Coto Makassar
+1059,Ayam Goreng
+1060,Nasi Goreng
+1061,Coto Makassar
+1062,Bakso
+1063,Ayam Betutu
+1064,Nasi Goreng
+1065,Ayam Pop
+1066,Rawon
+1067,Sate Madura
+1068,Bakso
+1069,Soto
+1070,Bakso
+1071,Gudeg
+1072,Coto Makassar
+1073,Sate Madura
+1074,Soto
+1075,Coto Makassar
+1076,Gudeg
+1077,Nasi Goreng
+1078,Soto
+1079,Rendang
+1080,Rendang
+1081,Ayam Bakar
+1082,Nasi Goreng
+1083,Sate Padang
+1084,Bakso
+1085,Nasi Goreng
+1086,Coto Makassar
+1087,Rendang
+1088,Bakso
+1089,Nasi Goreng
+1090,Bakso
+1091,Gudeg
+1092,Coto Makassar
+1093,Ayam Betutu
+1094,Bakso
+1095,Coto Makassar
+1096,Gado Gado
+1097,Rendang
+1098,Sate Madura
+1099,Coto Makassar
+1100,Rendang
+1101,Ayam Goreng
+1102,Soto
+1103,Ayam Bakar
+1104,Ayam Pop
+1105,Ayam Betutu
+1106,Rendang
+1107,Rendang
+1108,Coto Makassar
+1109,Sate Padang
+1110,Ayam Bakar
+1111,Gado Gado
+1112,Bakso
+1113,Coto Makassar
+1114,Coto Makassar
+1115,Gudeg
+1116,Soto
+1117,Ayam Bakar
+1118,Ayam Betutu
+1119,Coto Makassar
+1120,Rawon
+1121,Rendang
+1122,Ayam Pop
+1123,Gudeg
+1124,Pempek
+1125,Soto
+1126,Ayam Betutu
+1127,Sate Madura
+1128,Ayam Goreng
+1129,Rawon
+1130,Gado Gado
+1131,Ayam Betutu
+1132,Ayam Pop
+1133,Gudeg
+1134,Rendang
+1135,Rendang
+1136,Gado Gado
+1137,Gudeg
+1138,Bakso
+1139,Pempek
+1140,Pempek
+1141,Gado Gado
+1142,Bakso
+1143,Ayam Bakar
+1144,Pempek
+1145,Rendang
+1146,Ayam Bakar
+1147,Gudeg
+1148,Ayam Bakar
+1149,Bakso
+1150,Soto
+1151,Ayam Pop
+1152,Rendang
+1153,Pempek
+1154,Ayam Bakar
+1155,Soto
+1156,Bakso
+1157,Ayam Goreng
+1158,Rawon
+1159,Ayam Bakar
+1160,Ayam Pop
+1161,Gudeg
+1162,Ayam Pop
+1163,Coto Makassar
+1164,Rawon
+1165,Coto Makassar
+1166,Sate Padang
+1167,Bakso
+1168,Gudeg
+1169,Ayam Pop
+1170,Ayam Pop
+1171,Sate Padang
+1172,Gado Gado
+1173,Ayam Goreng
+1174,Sate Madura
+1175,Rawon
+1176,Ayam Goreng
+1177,Rendang
+1178,Rawon
+1179,Pempek
+1180,Sate Padang
+1181,Bakso
+1182,Coto Makassar
+1183,Pempek
+1184,Ayam Goreng
+1185,Ayam Bakar
+1186,Ayam Pop
+1187,Gudeg
+1188,Pempek
+1189,Nasi Goreng
+1190,Ayam Bakar
+1191,Coto Makassar
+1192,Gudeg
+1193,Gado Gado
+1194,Rawon
+1195,Ayam Pop
+1196,Sate Madura
+1197,Gudeg
+1198,Rawon
+1199,Gado Gado
+1200,Rawon
+1201,Ayam Bakar
+1202,Gado Gado
+1203,Coto Makassar
+1204,Sate Madura
+1205,Gudeg
+1206,Pempek
+1207,Gudeg
+1208,Sate Madura
+1209,Gudeg
+1210,Sate Madura
+1211,Coto Makassar
+1212,Rendang
+1213,Pempek
+1214,Ayam Goreng
+1215,Ayam Bakar
+1216,Soto
+1217,Rendang
+1218,Gudeg
+1219,Sate Padang
+1220,Sate Madura
+1221,Ayam Goreng
+1222,Gudeg
+1223,Ayam Goreng
+1224,Pempek
+1225,Bakso
+1226,Soto
+1227,Soto
+1228,Ayam Bakar
+1229,Coto Makassar
+1230,Gudeg
+1231,Ayam Pop
+1232,Rawon
+1233,Pempek
+1234,Bakso
+1235,Soto
+1236,Pempek
+1237,Pempek
+1238,Sate Padang
+1239,Ayam Betutu
+1240,Bakso
+1241,Rawon
+1242,Nasi Goreng
+1243,Nasi Goreng
+1244,Pempek
+1245,Bakso
+1246,Sate Madura
+1247,Ayam Bakar
+1248,Ayam Bakar
+1249,Gado Gado
+1250,Ayam Goreng
+1251,Nasi Goreng
+1252,Sate Padang
+1253,Sate Madura
+1254,Bakso
+1255,Sate Padang
+1256,Coto Makassar
+1257,Sate Madura
+1258,Bakso
+1259,Soto
+1260,Pempek
+1261,Ayam Bakar
+1262,Sate Padang
+1263,Gado Gado
+1264,Ayam Betutu
+1265,Rendang
+1266,Soto
+1267,Nasi Goreng
+1268,Ayam Bakar
+1269,Coto Makassar
+1270,Ayam Bakar
+1271,Rawon
+1272,Soto
+1273,Ayam Bakar
+1274,Bakso
+1275,Gudeg
+1276,Nasi Goreng
+1277,Pempek
+1278,Coto Makassar
+1279,Soto
+1280,Nasi Goreng
+1281,Sate Madura
+1282,Ayam Pop
+1283,Ayam Bakar
+1284,Coto Makassar
+1285,Sate Madura
+1286,Coto Makassar
+1287,Gudeg
+1288,Bakso
+1289,Rendang
+1290,Bakso
+1291,Coto Makassar
+1292,Bakso
+1293,Ayam Betutu
+1294,Pempek
+1295,Ayam Betutu
+1296,Nasi Goreng
+1297,Gado Gado
+1298,Ayam Goreng
+1299,Pempek
+1300,Sate Padang
+1301,Rawon
+1302,Sate Madura
+1303,Sate Madura
+1304,Coto Makassar
+1305,Rendang
+1306,Ayam Betutu
+1307,Soto
+1308,Pempek
+1309,Ayam Pop
+1310,Gado Gado
+1311,Gudeg
+1312,Soto
+1313,Ayam Bakar
+1314,Ayam Goreng
+1315,Pempek
+1316,Ayam Goreng
+1317,Gado Gado
+1318,Nasi Goreng
+1319,Coto Makassar
+1320,Gudeg
+1321,Sate Padang
+1322,Nasi Goreng
+1323,Gudeg
+1324,Soto
+1325,Ayam Betutu
+1326,Coto Makassar
+1327,Ayam Betutu
+1328,Ayam Goreng
+1329,Gudeg
+1330,Rendang
+1331,Sate Padang
+1332,Pempek
+1333,Bakso
+1334,Nasi Goreng
+1335,Rendang
+1336,Bakso
+1337,Soto
+1338,Nasi Goreng
+1339,Ayam Pop
+1340,Sate Madura
+1341,Ayam Goreng
+1342,Rawon
+1343,Rawon
+1344,Nasi Goreng
+1345,Gado Gado
+1346,Ayam Goreng
+1347,Soto
+1348,Pempek
+1349,Ayam Pop
+1350,Bakso
+1351,Gado Gado
+1352,Pempek
+1353,Gado Gado
+1354,Gado Gado
+1355,Pempek
+1356,Nasi Goreng
+1357,Sate Padang
+1358,Soto
+1359,Ayam Betutu
+1360,Gudeg
+1361,Coto Makassar
+1362,Gudeg
+1363,Coto Makassar
+1364,Ayam Pop
+1365,Rawon
+1366,Coto Makassar
+1367,Gado Gado
+1368,Ayam Pop
+1369,Ayam Pop
+1370,Pempek
+1371,Rendang
+1372,Coto Makassar
+1373,Rawon
+1374,Ayam Goreng
+1375,Coto Makassar
+1376,Gado Gado
+1377,Ayam Bakar
+1378,Nasi Goreng
+1379,Ayam Betutu
+1380,Bakso
+1381,Pempek
+1382,Pempek
+1383,Ayam Pop
+1384,Ayam Betutu
+1385,Soto
+1386,Nasi Goreng
+1387,Gudeg
+1388,Gado Gado
+1389,Soto
+1390,Ayam Goreng
+1391,Rawon
+1392,Ayam Pop
+1393,Ayam Pop
+1394,Coto Makassar
+1395,Rawon
+1396,Ayam Bakar
+1397,Ayam Pop
+1398,Bakso
+1399,Pempek
+1400,Ayam Goreng
+1401,Sate Padang
+1402,Pempek
+1403,Nasi Goreng
+1404,Coto Makassar
+1405,Ayam Goreng
+1406,Sate Madura
+1407,Ayam Pop
+1408,Ayam Bakar
+1409,Gudeg
+1410,Coto Makassar
+1411,Pempek
+1412,Rawon
+1413,Ayam Betutu
+1414,Gudeg
+1415,Rawon
+1416,Ayam Betutu
+1417,Sate Madura
+1418,Gado Gado
+1419,Coto Makassar
+1420,Sate Padang
+1421,Gudeg
+1422,Soto
+1423,Ayam Bakar
+1424,Coto Makassar
+1425,Rawon
+1426,Ayam Bakar
+1427,Rawon
+1428,Pempek
+1429,Rendang
+1430,Coto Makassar
+1431,Rendang
+1432,Rendang
+1433,Ayam Betutu
+1434,Soto
+1435,Pempek
+1436,Bakso
+1437,Rendang
+1438,Soto
+1439,Sate Padang
+1440,Gudeg
+1441,Gado Gado
+1442,Soto
+1443,Sate Madura
+1444,Nasi Goreng
+1445,Soto
+1446,Rawon
+1447,Sate Madura
+1448,Coto Makassar
+1449,Rendang
+1450,Coto Makassar
+1451,Sate Madura
+1452,Ayam Bakar
+1453,Pempek
+1454,Bakso
+1455,Sate Padang
+1456,Ayam Bakar
+1457,Soto
+1458,Ayam Bakar
+1459,Ayam Goreng
+1460,Ayam Bakar
+1461,Gudeg
+1462,Rendang
+1463,Ayam Bakar
+1464,Gudeg
+1465,Coto Makassar
+1466,Rendang
+1467,Gudeg
+1468,Pempek
+1469,Ayam Pop
+1470,Ayam Pop
+1471,Nasi Goreng
+1472,Ayam Pop
+1473,Ayam Pop
+1474,Pempek
+1475,Soto
+1476,Ayam Betutu
+1477,Nasi Goreng
+1478,Sate Madura
+1479,Ayam Bakar
+1480,Gudeg
+1481,Ayam Pop
+1482,Nasi Goreng
+1483,Gudeg
+1484,Ayam Betutu
+1485,Ayam Betutu
+1486,Soto
+1487,Sate Madura
+1488,Soto
+1489,Gado Gado
+1490,Gado Gado
+1491,Gudeg
+1492,Ayam Pop
+1493,Ayam Betutu
+1494,Ayam Bakar
+1495,Rendang
+1496,Sate Madura
+1497,Gado Gado
+1498,Rawon
+1499,Rendang
+1500,Ayam Betutu
+1501,Gado Gado
+1502,Ayam Pop
+1503,Ayam Goreng
+1504,Bakso
+1505,Rawon
+1506,Ayam Goreng
+1507,Gado Gado
+1508,Gudeg
+1509,Ayam Goreng
+1510,Bakso
+1511,Sate Padang
+1512,Ayam Goreng
+1513,Nasi Goreng
+1514,Ayam Goreng
+1515,Rendang
+1516,Rawon
+1517,Gudeg
+1518,Sate Padang
+1519,Ayam Pop
+1520,Sate Padang
+1521,Ayam Betutu
+1522,Soto
+1523,Rawon
+1524,Nasi Goreng
+1525,Soto
+1526,Sate Madura
+1527,Ayam Betutu
+1528,Rawon
+1529,Gudeg
+1530,Sate Madura
+1531,Pempek
+1532,Sate Padang
+1533,Rawon
+1534,Soto
+1535,Soto
+1536,Gado Gado
+1537,Coto Makassar
+1538,Ayam Goreng
+1539,Nasi Goreng
+1540,Soto
+1541,Sate Madura
+1542,Rendang
+1543,Nasi Goreng
+1544,Ayam Bakar
+1545,Ayam Goreng
+1546,Sate Madura
+1547,Coto Makassar
+1548,Rendang
+1549,Gado Gado
+1550,Ayam Betutu
+1551,Gado Gado
+1552,Sate Madura
+1553,Coto Makassar
+1554,Coto Makassar
+1555,Sate Padang
+1556,Ayam Pop
+1557,Sate Padang
+1558,Soto
+1559,Sate Madura
+1560,Ayam Pop
+1561,Pempek
+1562,Sate Padang
+1563,Ayam Pop
+1564,Pempek
+1565,Ayam Betutu
+1566,Rendang
+1567,Ayam Goreng
+1568,Ayam Betutu
+1569,Sate Madura
+1570,Ayam Pop
+1571,Pempek
+1572,Ayam Betutu
+1573,Sate Padang
+1574,Ayam Bakar
+1575,Rendang
+1576,Ayam Pop
+1577,Rendang
+1578,Rendang
+1579,Coto Makassar
+1580,Sate Madura
+1581,Soto
+1582,Rendang
+1583,Ayam Pop
+1584,Ayam Bakar
+1585,Bakso
+1586,Sate Madura
+1587,Ayam Bakar
+1588,Rawon
+1589,Rawon
+1590,Ayam Bakar
+1591,Gudeg
+1592,Nasi Goreng
+1593,Pempek
+1594,Bakso
+1595,Ayam Pop
+1596,Sate Madura
+1597,Ayam Pop
+1598,Rawon
+1599,Gado Gado
+1600,Sate Madura
+1601,Gado Gado
+1602,Bakso
+1603,Ayam Goreng
+1604,Ayam Goreng
+1605,Ayam Pop
+1606,Sate Padang
+1607,Coto Makassar
+1608,Gado Gado
+1609,Ayam Bakar
+1610,Ayam Pop
+1611,Rendang
+1612,Ayam Pop
+1613,Ayam Goreng
+1614,Bakso
+1615,Nasi Goreng
+1616,Ayam Goreng
+1617,Ayam Bakar
+1618,Coto Makassar
+1619,Coto Makassar
+1620,Pempek
+1621,Gudeg
+1622,Ayam Betutu
+1623,Gado Gado
+1624,Ayam Pop
+1625,Ayam Goreng
+1626,Bakso
+1627,Ayam Betutu
+1628,Coto Makassar
+1629,Nasi Goreng
+1630,Sate Padang
+1631,Soto
+1632,Soto
+1633,Soto
+1634,Bakso
+1635,Pempek
+1636,Ayam Betutu
+1637,Rawon
+1638,Ayam Betutu
+1639,Bakso
+1640,Gudeg
+1641,Rawon
+1642,Coto Makassar
+1643,Sate Padang
+1644,Ayam Betutu
+1645,Bakso
+1646,Ayam Bakar
+1647,Pempek
+1648,Soto
+1649,Coto Makassar
+1650,Gado Gado
+1651,Pempek
+1652,Ayam Bakar
+1653,Gado Gado
+1654,Rawon
+1655,Ayam Goreng
+1656,Gudeg
+1657,Coto Makassar
+1658,Rendang
+1659,Gudeg
+1660,Soto
+1661,Sate Madura
+1662,Sate Madura
+1663,Gudeg
+1664,Nasi Goreng
+1665,Sate Madura
+1666,Ayam Goreng
+1667,Ayam Goreng
+1668,Pempek
+1669,Ayam Bakar
+1670,Ayam Bakar
+1671,Rawon
+1672,Sate Padang
+1673,Sate Padang
+1674,Ayam Goreng
+1675,Ayam Bakar
+1676,Sate Madura
+1677,Sate Padang
+1678,Sate Padang
+1679,Ayam Goreng
+1680,Nasi Goreng
+1681,Ayam Goreng
+1682,Gudeg
+1683,Pempek
+1684,Ayam Pop
+1685,Gado Gado
+1686,Nasi Goreng
+1687,Ayam Betutu
+1688,Bakso
+1689,Ayam Goreng
+1690,Sate Padang
+1691,Sate Padang
+1692,Soto
+1693,Bakso
+1694,Sate Madura
+1695,Gudeg
+1696,Pempek
+1697,Sate Padang
+1698,Rendang
+1699,Ayam Pop
+1700,Ayam Goreng
+1701,Pempek
+1702,Bakso
+1703,Ayam Goreng
+1704,Ayam Betutu
+1705,Gado Gado
+1706,Sate Padang
+1707,Sate Madura
+1708,Rawon
+1709,Rawon
+1710,Ayam Pop
+1711,Rawon
+1712,Bakso
+1713,Gudeg
+1714,Ayam Goreng
+1715,Ayam Betutu
+1716,Nasi Goreng
+1717,Ayam Goreng
+1718,Rawon
+1719,Bakso
+1720,Nasi Goreng
+1721,Soto
+1722,Ayam Bakar
+1723,Bakso
+1724,Rawon
+1725,Soto
+1726,Bakso
+1727,Bakso
+1728,Pempek
+1729,Ayam Goreng
+1730,Sate Madura
+1731,Ayam Pop
+1732,Rendang
+1733,Ayam Betutu
+1734,Coto Makassar
+1735,Nasi Goreng
+1736,Rawon
+1737,Bakso
+1738,Rendang
+1739,Sate Padang
+1740,Coto Makassar
+1741,Ayam Goreng
+1742,Ayam Goreng
+1743,Sate Madura
+1744,Rawon
+1745,Ayam Pop
+1746,Nasi Goreng
+1747,Rawon
+1748,Ayam Goreng
+1749,Ayam Pop
+1750,Rawon
+1751,Pempek
+1752,Gado Gado
+1753,Sate Padang
+1754,Soto
+1755,Sate Madura
+1756,Ayam Betutu
+1757,Ayam Bakar
+1758,Gudeg
+1759,Sate Padang
+1760,Ayam Goreng
+1761,Ayam Betutu
+1762,Ayam Bakar
+1763,Gado Gado
+1764,Rawon
+1765,Rawon
+1766,Sate Padang
+1767,Coto Makassar
+1768,Sate Padang
+1769,Nasi Goreng
+1770,Gado Gado
+1771,Rawon
+1772,Ayam Pop
+1773,Gado Gado
+1774,Sate Padang
+1775,Rawon
+1776,Gudeg
+1777,Bakso
+1778,Ayam Goreng
+1779,Gado Gado
+1780,Sate Padang
+1781,Ayam Betutu
+1782,Coto Makassar
+1783,Gudeg
+1784,Sate Padang
+1785,Ayam Goreng
+1786,Ayam Pop
+1787,Gado Gado
+1788,Sate Madura
+1789,Rendang
+1790,Bakso
+1791,Ayam Goreng
+1792,Rawon
+1793,Ayam Pop
+1794,Rawon
+1795,Ayam Pop
+1796,Pempek
+1797,Ayam Goreng
+1798,Ayam Goreng
+1799,Pempek
+1800,Coto Makassar
+1801,Gudeg
+1802,Ayam Bakar
+1803,Pempek
+1804,Rendang
+1805,Gado Gado
+1806,Rendang
+1807,Ayam Goreng
+1808,Ayam Bakar
+1809,Ayam Bakar
+1810,Nasi Goreng
+1811,Bakso
+1812,Ayam Pop
+1813,Nasi Goreng
+1814,Sate Madura
+1815,Nasi Goreng
+1816,Sate Padang
+1817,Gudeg
+1818,Rendang
+1819,Ayam Bakar
+1820,Sate Padang
+1821,Nasi Goreng
+1822,Gado Gado
+1823,Sate Padang
+1824,Ayam Pop
+1825,Ayam Betutu
+1826,Bakso
+1827,Sate Padang
+1828,Pempek
+1829,Gudeg
+1830,Soto
+1831,Ayam Pop
+1832,Rawon
+1833,Rawon
+1834,Ayam Betutu
+1835,Coto Makassar
+1836,Rawon
+1837,Ayam Goreng
+1838,Rendang
+1839,Soto
+1840,Ayam Goreng
+1841,Ayam Bakar
+1842,Coto Makassar
+1843,Soto
+1844,Sate Padang
+1845,Bakso
+1846,Bakso
+1847,Coto Makassar
+1848,Soto
+1849,Gudeg
+1850,Ayam Bakar
+1851,Gudeg
+1852,Gudeg
+1853,Pempek
+1854,Rendang
+1855,Nasi Goreng
+1856,Bakso
+1857,Ayam Bakar
+1858,Rawon
+1859,Gado Gado
+1860,Gudeg
+1861,Gudeg
+1862,Sate Madura
+1863,Coto Makassar
+1864,Soto
+1865,Rawon
+1866,Ayam Goreng
+1867,Gado Gado
+1868,Rawon
+1869,Rendang
+1870,Sate Padang
+1871,Soto
+1872,Gudeg
+1873,Gado Gado
+1874,Rendang
+1875,Rawon
+1876,Sate Madura
+1877,Soto
+1878,Sate Padang
+1879,Soto
+1880,Ayam Pop
+1881,Gado Gado
+1882,Rendang
+1883,Pempek
+1884,Ayam Betutu
+1885,Soto
+1886,Rawon
+1887,Rendang
+1888,Ayam Bakar
+1889,Soto
+1890,Ayam Pop
+1891,Sate Madura
+1892,Ayam Pop
+1893,Coto Makassar
+1894,Rendang
+1895,Gado Gado
+1896,Ayam Betutu
+1897,Gado Gado
+1898,Ayam Betutu
+1899,Ayam Bakar
+1900,Gado Gado
+1901,Sate Padang
+1902,Ayam Bakar
+1903,Sate Madura
+1904,Bakso
+1905,Soto
+1906,Rawon
+1907,Sate Padang
+1908,Ayam Pop
+1909,Soto
+1910,Rendang
+1911,Ayam Pop
+1912,Ayam Goreng
+1913,Gudeg
+1914,Sate Padang
+1915,Gudeg
+1916,Sate Madura
+1917,Sate Padang
+1918,Gudeg
+1919,Coto Makassar
+1920,Ayam Betutu
+1921,Sate Padang
+1922,Ayam Pop
+1923,Gudeg
+1924,Ayam Betutu
+1925,Sate Padang
+1926,Sate Madura
+1927,Pempek
+1928,Ayam Goreng
+1929,Ayam Goreng
+1930,Coto Makassar
+1931,Coto Makassar
+1932,Bakso
+1933,Ayam Bakar
+1934,Nasi Goreng
+1935,Ayam Betutu
+1936,Gudeg
+1937,Sate Padang
+1938,Bakso
+1939,Sate Padang
+1940,Soto
+1941,Rawon
+1942,Ayam Pop
+1943,Sate Madura
+1944,Rendang
+1945,Nasi Goreng
+1946,Gudeg
+1947,Ayam Betutu
+1948,Soto
+1949,Sate Padang
+1950,Bakso
+1951,Bakso
+1952,Coto Makassar
+1953,Coto Makassar
+1954,Nasi Goreng
+1955,Sate Madura
+1956,Bakso
+1957,Coto Makassar
+1958,Ayam Bakar
+1959,Rendang
+1960,Ayam Bakar
+1961,Sate Madura
+1962,Bakso
+1963,Sate Madura
+1964,Nasi Goreng
+1965,Soto
+1966,Sate Padang
+1967,Ayam Bakar
+1968,Nasi Goreng
+1969,Soto
+1970,Ayam Pop
+1971,Gudeg
+1972,Sate Madura
+1973,Rendang
+1974,Sate Padang
+1975,Gudeg
+1976,Pempek
+1977,Sate Padang
+1978,Coto Makassar
+1979,Ayam Goreng
+1980,Soto
+1981,Rendang
+1982,Soto
+1983,Ayam Betutu
+1984,Sate Padang
+1985,Soto
+1986,Bakso
+1987,Pempek
+1988,Ayam Betutu
+1989,Ayam Bakar
+1990,Ayam Goreng
+1991,Soto
+1992,Soto
+1993,Rendang
+1994,Gado Gado
+1995,Sate Madura
+1996,Gado Gado
+1997,Coto Makassar
+1998,Rawon
+1999,Coto Makassar
+2000,Sate Madura
+2001,Ayam Bakar
+2002,Nasi Goreng
+2003,Sate Padang
+2004,Coto Makassar
+2005,Rendang
+2006,Rawon
+2007,Rendang
+2008,Pempek
+2009,Bakso
+2010,Soto
+2011,Gado Gado
+2012,Sate Madura
+2013,Rendang
+2014,Rendang
+2015,Coto Makassar
+2016,Sate Madura
+2017,Gado Gado
+2018,Gado Gado
+2019,Ayam Pop
+2020,Ayam Goreng
+2021,Gudeg
+2022,Bakso
+2023,Ayam Bakar
+2024,Rawon
+2025,Nasi Goreng
+2026,Nasi Goreng
+2027,Pempek
+2028,Rendang
+2029,Ayam Betutu
+2030,Gudeg
+2031,Sate Padang
+2032,Pempek
+2033,Ayam Betutu
+2034,Rendang
+2035,Bakso
+2036,Ayam Goreng
+2037,Sate Madura
+2038,Coto Makassar
+2039,Ayam Pop
+2040,Ayam Bakar
+2041,Gudeg
+2042,Bakso
+2043,Rawon
+2044,Rendang
+2045,Soto
+2046,Ayam Betutu
+2047,Ayam Pop
+2048,Ayam Bakar
+2049,Gudeg
+2050,Pempek
+2051,Gado Gado
+2052,Sate Madura
+2053,Soto
+2054,Sate Padang
+2055,Rendang
+2056,Ayam Pop
+2057,Ayam Goreng
