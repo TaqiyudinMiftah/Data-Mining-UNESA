@@ -2,3 +2,6 @@ test
 train
 train_with_label
 data
+train_with_label.zip
+test.zip
+vit_l_16_swag_e2e_v1_state.pth
